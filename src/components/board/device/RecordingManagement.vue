@@ -1,8 +1,7 @@
 <template lang="">
     <div>
         <Sidebar/>
-        <br/>   
-        <h2>녹화장치 정보</h2>
+        <span>녹화장치 정보</span>
     </div>
 </template>
 <script>
@@ -16,5 +15,4 @@ export default {
 }
 </script>
 <style lang="">
-    
 </style>
